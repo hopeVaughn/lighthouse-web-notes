@@ -12,3 +12,13 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log('availableTime is', availableTime);
 }
 ```
+
+To push things to a git repo from the terminal you need to make sure you generate a token. This is done from your git hub users settings under the feild:
+
+- `developer settings`.
+
+From there you'll need to decide which accesses this key will allow permisions to and if you want to designate an expirey date.
+
+### `BE SURE TO SAVE THE KEY INFORMATION SOMEWHERE SAFE!!`
+
+You'll need this key when you want to push your updates to the repo.
